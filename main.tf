@@ -3,6 +3,6 @@ module "azure-web-app-ha" {
 
   project = "xpto"
   location = "brazilsouth"
-  admin_username = "admusr"
-  admin_password = ""
+  admin_username = var.username
+  admin_password = var.password
 }
