@@ -1,3 +1,3 @@
-# azure-web-server-cluster
+# azure-projeto-xpto
 
-Cluster de Web Servers Nginx na Azure
+Projeto de exemplo de uso do módulo [Azure Web App HA](https://github.com/ozorest/azure-web-app-ha) 
